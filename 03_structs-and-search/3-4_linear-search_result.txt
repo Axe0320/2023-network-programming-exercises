@@ -1,0 +1,7 @@
+Search Number?:7
+7 is found in data[8].
+続行するには何かキーを押してください . . .
+
+Search Number?:100
+100 is not found.
+続行するには何かキーを押してください . . .

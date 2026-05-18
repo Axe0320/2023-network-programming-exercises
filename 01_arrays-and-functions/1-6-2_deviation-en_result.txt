@@ -1,0 +1,12 @@
+
+
+The deviation value of the 1st person is 44.179540
+The deviation value of the 2nd person is 50.996295
+The deviation value of the 3rd person is 64.629805
+The deviation value of the 4th person is 53.618124
+The deviation value of the 5th person is 57.813050
+The deviation value of the 6th person is 58.337415
+The deviation value of the 7th person is 31.070396
+The deviation value of the 8th person is 57.288684
+The deviation value of the 9th person is 45.228272
+The deviation value of the 10th person is 36.838420

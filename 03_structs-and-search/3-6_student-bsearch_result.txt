@@ -1,0 +1,7 @@
+Search Gakuban?:1001
+Average = 69.666664
+続行するには何かキーを押してください . . .
+
+Search Gakuban?:9999
+Not Found.
+続行するには何かキーを押してください . . .

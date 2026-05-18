@@ -1,0 +1,20 @@
+orange
+Plese enter the same word.
+oooo
+MISS
+Plese enter the same word.
+orange
+OK
+banana
+Plese enter the same word.
+bababa
+MISS
+Plese enter the same word.
+banana
+OK
+apple
+Plese enter the same word.
+apple
+OK
+SUCCESS
+続行するには何かキーを押してください . . .
